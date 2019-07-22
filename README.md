@@ -27,13 +27,3 @@ Attributions
 **Icons:** [Lightness for burg](http://sworiginal.deviantart.com/art/Lightness-for-burg-181461810) & [refind-ambience](https://github.com/lukechilds/refind-ambience).
 
 **Reddit:** [rEFInd](http://www.rodsbooks.com/refind/)
-
-----
-<h5 align="center">
-	<br>
-	<img width="150" src="https://i.imgur.com/DOIKi6h.png" alt="bitcoin">
-	<br>
-	<FIGCAPTION><center><a href="bitcoin:1GTiYbxCbZjALo4yYeFB9py4jtXZVdtop7">bitcoin:1GTiYbxCbZjALo4yYeFB9py4jtXZVdtop7</a></center></FIGCAPTION>
-	<br>
-	<br>
-</h5>
