@@ -3,7 +3,7 @@ dm.
 A dark theme for [rEFInd](http://www.rodsbooks.com/refind/) based on [DM](https://github.com/mustaqimM/dm).
 ----
 **Screenshot**
-![M](https://github.com/mustaqimM/dm/blob/master/screenshot.png)
+![M](https://github.com/kingchappers/dm/blob/master/screenshot.png)
 
 Installation
 ----
