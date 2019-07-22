@@ -1,6 +1,6 @@
 dm.
 ==============================
-A dark theme for [rEFInd](http://www.rodsbooks.com/refind/) based on [Dream Machine](https://github.com/Lindstream/dm-refind-theme).
+A dark theme for [rEFInd](http://www.rodsbooks.com/refind/) based on [DM](https://github.com/mustaqimM/dm).
 ----
 **Screenshot**
 ![M](https://github.com/mustaqimM/dm/blob/master/screenshot.png)
